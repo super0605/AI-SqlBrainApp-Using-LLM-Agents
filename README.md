@@ -1,4 +1,4 @@
-# AI-SQLBrain-App-Using-LLM-Agents
+# AI SQLBrain Streamlit App Using OpenAI LLM Agents
 
 Leveraging the power of OpenAI's Language Model Agents to create an intelligent SQL query assistant.
 ## Introduction
