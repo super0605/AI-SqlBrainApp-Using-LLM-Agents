@@ -45,18 +45,4 @@ Once you access the application, you can interact with the AI SQL Brain App in t
 
 The app will provide real-time feedback and suggestions to help you construct accurate SQL queries.
 
-## Contributing
 
-We welcome contributions to improve and extend the functionality of the AI SQL Brain App. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and test thoroughly.
-4. Submit a pull request with a clear description of your changes.
-
-
-## Contact
-
-If you have any questions, or suggestions, or encounter any issues, please feel free to contact us at [christinestraub0720.com](mailto:christinestraub0720@gmail.com).
-
-Happy querying with the AI SQL Brain App!
