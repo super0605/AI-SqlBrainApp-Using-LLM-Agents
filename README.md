@@ -15,8 +15,7 @@ To get started with the AI SQL Brain App, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/AdadAlShabab/AI-SQL-Brain-App-Using-OpenAI-LLM-Agents.git
-   ```
+   git clone git@github.com:christinestraub/AI-SQLBrain-App-Using-LLM-Agents.git   ```
 
 2. **Set Up Dependencies**: Make sure you have the necessary dependencies installed. This may include Python, Flask, and other libraries. You can typically install them using `pip`:
 
@@ -57,6 +56,6 @@ We welcome contributions to improve and extend the functionality of the AI SQL B
 
 ## Contact
 
-If you have any questions, suggestions, or encounter any issues, please feel free to contact us at [sababadad74@gmail.com](mailto:sababadad74@gmail.com).
+If you have any questions, or suggestions, or encounter any issues, please feel free to contact us at [christinestraub0720.com](mailto:christinestraub0720@gmail.com).
 
 Happy querying with the AI SQL Brain App!
