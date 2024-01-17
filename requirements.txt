@@ -1,5 +1,6 @@
+openai
 langchain==0.0.305
 pandas==2.0.3
-pandas==1.5.3
+pandas
+tabulate
 streamlit==1.25.0
-streamlit==1.22.0
